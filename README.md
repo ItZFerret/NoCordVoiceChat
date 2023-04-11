@@ -2,6 +2,13 @@
 
 This Python script implements a simple voice chat application using the tkinter GUI toolkit, customtkinter library, socket programming, threading, and pyaudio for audio streaming. The application allows users to join a voice chat server by providing the server IP address and port number. The users can also save their usernames and chat with each other by speaking through the microphone.
 
+![image](https://user-images.githubusercontent.com/122138207/231114764-d6128973-7db1-47ea-a3e5-879342e03488.png)
+
+![image](https://user-images.githubusercontent.com/122138207/231114840-6ad69b8a-f6ae-4b29-97f9-441fbedf4bcd.png)
+
+
+![image](https://user-images.githubusercontent.com/122138207/231114893-eb48bccb-a5ce-4a95-bd5d-9b916dc7935f.png)
+
 
 ## Installation
 
