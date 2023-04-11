@@ -5,7 +5,7 @@ This Python script implements a simple voice chat application using the tkinter 
 
 ## Installation
 
-Installation
+
 -Install Python on your system. You can download it from the official website.
 
 -Install tkinter by running the command pip install tkinter in your command prompt or terminal.
